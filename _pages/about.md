@@ -19,8 +19,8 @@ redirect_from:
 
 Hi there! 
 
-Welcome to Khoi N.M. Nguyen's website!
-I am currently an AI Resident in [AI Center @ FPT Software](https://fpt-aicenter.com/) from August 2023, advised by [Prof.Tan Minh Nguyen](https://tanmnguyen89.github.io/). Previously, I graduated in the top 3 of my cohort from the University of Science, VNUHCM, earning a bachelor's degree in Information Technology through the honors program.
+Welcome to my website!
+My name is Khoi N.M. Nguyen. I am currently an AI Resident in [AI Center @ FPT Software](https://fpt-aicenter.com/) from August 2023, advised by [Prof.Tan Minh Nguyen](https://tanmnguyen89.github.io/). Previously, I graduated in the top 3 of my cohort from the University of Science, VNUHCM, earning a bachelor's degree in Information Technology through the honors program.
 Currently, my research is focusing on the robustness and efficiency of neural networks. I am also interested in the intersection of machine learning and systems, especially in the context of large-scale parallel systems.
 
 
